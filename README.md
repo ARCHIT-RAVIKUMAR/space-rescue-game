@@ -1,4 +1,4 @@
-# Orbit Rescue
+# Space Rescue
 
 A web-based space-rescue game. Pilot a servicing vehicle through a debris field, reach a damaged satellite, and repair it before your propellant runs out.
 
